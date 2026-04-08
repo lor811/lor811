@@ -1,16 +1,33 @@
-## Hi there 👋
+<h3 align="center">🧑🏻‍💻 Computer Engineer | 🎓 Master's Student | 🇮🇹🤌🏻 Italian </h3>
 
-<!--
-**lor811/lor811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a **Master's degree in Artificial Intelligence Engineering @ UNIMORE**
+- 🌱 I’m currently diving into **data science, machine learning and deep learning frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,js,ts" />
+  </a>
+</p>
+
+<h3 align="center">👾 Tools & Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,bash,git,github,docker,arduino" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,react,sklearn,pytorch" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lor811&theme=catppuccin-macchiato" alt="GitHub Streak" />
+  </a>
+</p>
